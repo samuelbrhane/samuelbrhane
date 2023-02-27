@@ -1,6 +1,6 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.e2msolutions.com/wp-content/uploads/2021/10/page-banner-img.png))]
+![I am GitHub Readme Generator's creator](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCNrEOQqG16QfJSMMMHM0XSGf9CcGFFNfyeQ&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Samuel Brhane</h1>
-<h3 align="center">A passionate and committed full stack developer</h3>
+<h3 align="center">A passionate and committed Full Stack Developer</h3>
 <img align="right" alt="Coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNUvPwcjrYNWQG10Chtdy23kd9_dJTmL_M9w&usqp=CAU"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelberhane&label=Profile%20views&color=0e75b6&style=flat" alt="samuelberhane" /> </p>
