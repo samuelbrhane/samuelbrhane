@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://samuel-brhane.vercel.app](https://samuel-brhane.vercel.app)
 
-- 💬 Ask me about **React, Next.js, Firebase,Flutter and MERN Stack**
+- 💬 Ask me about **React, Next.js, Firebase, Flutter and MERN Stack**
 
 - 📫 How to reach me **1samuelbrhane@gmail.com**
 
