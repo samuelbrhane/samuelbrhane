@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel Brhane</h1>
-<h3 align="center">A passionate and committed Full Stack Developer</h3>
+<h3 align="center">A passionate and committed Full Stack Web and Mobile App Developer</h3>
 <img align="right" w="300" alt="Coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCNrEOQqG16QfJSMMMHM0XSGf9CcGFFNfyeQ&usqp=CAU"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelberhane&label=Profile%20views&color=0e75b6&style=flat" alt="samuelberhane" /> </p>
 - 🌱 I’m currently learning **Mobile App Development with React Native and Flutter.**
