@@ -2,11 +2,11 @@
 <h3 align="center">A passionate and committed Full Stack Web and Mobile App Developer</h3>
 <img align="right" w="300" alt="Coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCNrEOQqG16QfJSMMMHM0XSGf9CcGFFNfyeQ&usqp=CAU"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelberhane&label=Profile%20views&color=0e75b6&style=flat" alt="samuelberhane" /> </p>
-- 🌱 I’m currently learning **Mobile App Development with React Native and Flutter.**
+- 🌱 I’m currently learning **Mobile App Development with React Native.**
 
 - 👨‍💻 All of my projects are available at [https://samuel-brhane.vercel.app](https://samuel-brhane.vercel.app)
 
-- 💬 Ask me about **React, Next.js, Firebase, Flutter and MERN Stack**
+- 💬 Ask me about **React, Next.js, Firebase, React-Native and MERN Stack**
 
 - 📫 How to reach me **1samuelbrhane@gmail.com**
 
