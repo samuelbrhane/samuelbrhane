@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **React, Next.js, Firebase, React-Native and MERN Stack**
 
-- 📫 How to reach me **1samuelbrhane@gmail.com**
+- 📫 How to reach me **1samibrhane@gmail.com** or **1samuelbrhane@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
