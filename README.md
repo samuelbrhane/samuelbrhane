@@ -6,9 +6,9 @@
 
 - 👨‍💻 All of my projects are available at [https://samuel-brhane.vercel.app](https://samuel-brhane.vercel.app)
 
-- 💬 Ask me about **React, Next.js, Firebase, React-Native and MERN Stack**
+- 💬 Ask me about **React, Next.js, Svelte, Python, Django, Firebase, React-Native and Node.js**
 
-- 📫 How to reach me **1samibrhane@gmail.com** or **1samuelbrhane@gmail.com**
+- 📫 How to reach me **samuel.brhane@amref.org** or **1samibrhane@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
