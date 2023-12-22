@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Samuel Brhane</h1>
-<h3 align="center">A passionate and committed Full Stack Web and Mobile App Developer</h3>
+<h3 align="center">A passionate and committed Full Stack Web Developer</h3>
 <img align="right" w="300" alt="Coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCNrEOQqG16QfJSMMMHM0XSGf9CcGFFNfyeQ&usqp=CAU"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelberhane&label=Profile%20views&color=0e75b6&style=flat" alt="samuelberhane" /> </p>
- - 🔭 I’m currently working on **a mobile learning platform for Amref Health Africa, aimed at enabling users and health workers to learn through mobile devices using short text and voice formats.**
+ - 🔭 I currently serve as a Senior Web Developer at Montini Web Strategy, leading and contributing to diverse web development projects. My focus spans creating robust websites, implementing cutting-edge solutions, and ensuring the success of our web development initiatives.**
 
 - 👨‍💻 All of my projects are available at [https://samuel-brhane.vercel.app](https://samuel-brhane.vercel.app)
 
 - 💬 Ask me about **React, Next.js, Svelte, Python, Django, Firebase, React-Native and Node.js.**
 
-- 📫 How to reach me **samuel.brhane@amref.org or 1samibrhane@gmail.com**
+- 📫 How to reach me **contact@samuelbrhane.com**
 
 - ⚡ Fun fact **- Apart from coding, I enjoy outdoor activities like hiking and playing soccer. I am also an avid reader, particularly interested in books related to technology and personal development.**
 
