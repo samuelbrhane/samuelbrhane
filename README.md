@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate and Committed Full Stack Web Developer</h3>
 <img align="right" w="300" alt="Coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCNrEOQqG16QfJSMMMHM0XSGf9CcGFFNfyeQ&usqp=CAU"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelberhane&label=Profile%20views&color=0e75b6&style=flat" alt="samuelberhane" /> </p>
- - 🔭 I currently serve as a Senior Web Developer at Montini Web Strategy, leading and contributing to diverse web development projects. My focus spans creating robust websites, implementing cutting-edge solutions, and ensuring the success of our web development initiatives.**
+ - 🔭 I am currently working as a Senior Web Developer at Montini Web Strategy, leading and contributing to diverse web development projects. My focus spans creating robust websites, implementing cutting-edge solutions, and ensuring the success of our web development initiatives.**
 
 - 👨‍💻 All of my projects are available at [https://samuelbrhane.com](https://samuelbrhane.com)
 
