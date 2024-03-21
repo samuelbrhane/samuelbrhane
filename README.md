@@ -16,7 +16,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelberhane&label=Profile%20views&color=0e75b6&style=flat" alt="samuelberhane" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/samuel-brhane-alemayohu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel-brhane-406759267" height="30" width="40" /></a>
+<div><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel-brhane-406759267" height="30" width="40" /></div>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
