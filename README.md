@@ -2,13 +2,13 @@
 <h3 align="center">A Passionate and Committed Full Stack Web Developer</h3>
 <img align="right" w="300" alt="Coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCNrEOQqG16QfJSMMMHM0XSGf9CcGFFNfyeQ&usqp=CAU"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelberhane&label=Profile%20views&color=0e75b6&style=flat" alt="samuelberhane" /> </p>
- - 🔭 Welcome to my GitHub account! I am a full-stack software developer proficient in various programming languages, frameworks, and tools. Continuously learning and exploring new technologies, I strive to craft innovative solutions that push boundaries and drive progress in the software development industry.**
+ - 🔭 Welcome to my GitHub! Skilled in a variety of programming languages, frameworks, and tools, I'm a full-stack software developer with a passion for learning and exploring new technologies. My work is centered around developing innovative solutions to advance the field of software development. Committed to excellence, I aim to make a significant impact in the tech industry, integrating AI and machine learning into my projects to showcase my deep engagement with these evolving fields.**
 
 - 👨‍💻 All of my projects are available at [https://samuelbrhane.com](https://samuelbrhane.com)
 
 - 💬 Ask me about **React, Next.js, Svelte, Python, Django, Firebase, React-Native and Node.js.**
 
-- 📫 How to reach me **1samibrhane@gmail.com**, **contact@alemayohu.samuelbrhane.com**, **contact@samuelbrhane.com**
+- 📫 How to reach me **contact@samuelbrhane.com**, **1samibrhane@gmail.com**
 
 - ⚡ Fun fact **- Apart from coding, I enjoy outdoor activities like hiking and playing soccer. I am also an avid reader, particularly interested in books related to technology and personal development.**
 
