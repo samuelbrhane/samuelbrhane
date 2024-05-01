@@ -6,12 +6,9 @@
 
 - 👨‍💻 All of my projects are available at [https://samuelbrhane.com](https://samuelbrhane.com)
 
-- 💬 Ask me about **React, Next.js, Svelte, Python, Django, Firebase, React-Native and Node.js.**
+- 💬 Ask me about **Javascript, React, Next.js, Svelte, Node.js, Python, Django, Data Science, Machine Learning, Artificial Intelligence, Cloud Computing, AWS**
 
-- 📫 How to reach me **contact@samuelbrhane.com**, **1samibrhane@gmail.com**
-
-- ⚡ Fun fact **- Apart from coding, I enjoy outdoor activities like hiking and playing soccer. I am also an avid reader, particularly interested in books related to technology and personal development.**
-
+- 📫 How to reach me **contact@samuelbrhane.com**, **contact@alemayohu.samuelbrhane.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelberhane&label=Profile%20views&color=0e75b6&style=flat" alt="samuelberhane" /> </p>
 <h3 align="left">Connect with me:</h3>
