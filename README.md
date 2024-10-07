@@ -23,7 +23,7 @@
 
 <br />
 <span>
-<img src="https://github-readme-stats.vercel.app/api?username=samuelbrhane&show_icons=true&theme=gruvbox" alt="samuelbrhane" />
-<img src="[https://leetcard.jacoblin.cool/hogantech](https://leetcard.jacoblin.cool/samuelbrhanealemayohu)" alt="samuelbrhane-leetcode" />
+<img src="https://github-readme-stats.vercel.app/api?username=samuelbrhane&show_icons=true&theme=gruvbox" alt="hogan-tech" />
+<img src="https://leetcard.jacoblin.cool/samuelbrhanealemayohu" alt="samuel-leetcode" />
 </span>
 <br />
