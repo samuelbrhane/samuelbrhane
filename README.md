@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Samuel Brhane</h1>
-<h3 align="center">A Passionate and Committed Full Stack Web Developer</h3>
+<h3 align="center">A Passionate and Committed Software Developer</h3>
 <img align="right" w="300" alt="Coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCNrEOQqG16QfJSMMMHM0XSGf9CcGFFNfyeQ&usqp=CAU"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelberhane&label=Profile%20views&color=0e75b6&style=flat" alt="samuelberhane" /> </p>
- - 🔭 Welcome to my GitHub! Skilled in a variety of programming languages, frameworks, and tools, I'm a full-stack software developer with a passion for learning and exploring new technologies. My work is centered around developing innovative solutions to advance the field of software development. Committed to excellence, I aim to make a significant impact in the tech industry, integrating AI and machine learning into my projects to showcase my deep engagement with these evolving fields.**
+ - 🔭 Welcome to my GitHub! Skilled in a variety of programming languages, frameworks, and tools, I'm a full-stack software developer with a passion for learning and exploring new technologies. My work is centered around developing innovative solutions to advance the field of software development. Committed to excellence, I aim to significantly impact the tech industry, integrating AI and machine learning into my projects to showcase my deep engagement with these evolving fields.**
 
 - 👨‍💻 All of my projects are available at [https://samuelbrhane.com](https://samuelbrhane.com)
 
 - 💬 Ask me about **Javascript, React, Next.js, Svelte, Node.js, Python, Django, Data Science, Machine Learning, Artificial Intelligence, Cloud Computing, AWS**
 
-- 📫 How to reach me **contact@samuelbrhane.com**, **contact@alemayohu.samuelbrhane.com**
+- 📫 How to reach me **contact@samuelbrhane.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelberhane&label=Profile%20views&color=0e75b6&style=flat" alt="samuelberhane" /> </p>
 <h3 align="left">Connect with me:</h3>
@@ -21,3 +21,9 @@
  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
 </p>
 
+<br />
+<span>
+<img src="https://github-readme-stats.vercel.app/api?username=samuelbrhane&show_icons=true&theme=gruvbox" alt="samuelbrhane" />
+<img src="[https://leetcard.jacoblin.cool/hogantech](https://leetcard.jacoblin.cool/samuelbrhanealemayohu)" alt="samuelbrhane-leetcode" />
+</span>
+<br />
