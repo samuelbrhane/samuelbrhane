@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate and Committed Software Developer</h3>
 <span>
 
-<img src="https://komarev.com/ghpvc/?username=samuelbrhane&style=flat"  height="25">
+<img src="https://komarev.com/ghpvc/?username=samuelberhane&style=flat"  height="25">
 <!-- Light Mode -->
 <a href="www.linkedin.com/in/alemayohu-samuelbrhane#gh-light-mode-only">
     <img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only"
@@ -14,7 +14,7 @@
         alt="Connect with me on linkedin" height="25" >
 </a>
 </span>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelberhane&label=Profile%20views&color=0e75b6&style=flat" alt="samuelberhane" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelberhane&label=Profile%20views&color=0e75b6&style=flat" alt="samuelberhane" /> </p> -->
  - 🔭 Welcome to my GitHub! Skilled in a variety of programming languages, frameworks, and tools, I'm a full-stack software developer with a passion for learning and exploring new technologies. My work is centered around developing innovative solutions to advance the field of software development. Committed to excellence, I aim to significantly impact the tech industry, integrating AI and machine learning into my projects to showcase my deep engagement with these evolving fields.**
 
 - 👨‍💻 All of my projects are available at [https://samuelbrhane.com](https://samuelbrhane.com)
@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **contact@samuelbrhane.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelberhane&label=Profile%20views&color=0e75b6&style=flat" alt="samuelberhane" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <div><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel-brhane-406759267" height="30" width="40" /></div>
