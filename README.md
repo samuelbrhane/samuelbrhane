@@ -3,14 +3,23 @@
 <div>
 
 <img src="https://komarev.com/ghpvc/?username=samuelberhane&style=flat"  height="25">
-<!-- Light Mode -->
-<a href="https://www.linkedin.com/in/alemayohu-samuelbrhane/">
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/alemayohu-samuelbrhane/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only"
         alt="Connect with me on linkedin" height="25" >
 </a>
 
+<a href="https://samuelbrhane.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit my website" height="25">
+</a>
 </div>
+
+<!-- Website -->
+
+
+
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelberhane&label=Profile%20views&color=0e75b6&style=flat" alt="samuelberhane" /> </p> -->
+
  - 🔭 Welcome to my GitHub! Skilled in a variety of programming languages, frameworks, and tools, I'm a full-stack software developer with a passion for learning and exploring new technologies. My work is centered around developing innovative solutions to advance the field of software development. Committed to excellence, I aim to significantly impact the tech industry, integrating AI and machine learning into my projects to showcase my deep engagement with these evolving fields.**
 
 - 👨‍💻 All of my projects are available at [https://samuelbrhane.com](https://samuelbrhane.com)
@@ -18,6 +27,7 @@
 - 💬 Ask me about **Javascript, React, Next.js, Svelte, Node.js, Python, Django, Data Science, Machine Learning, Artificial Intelligence, Cloud Computing, AWS**
 
 - 📫 How to reach me **contact@samuelbrhane.com**
+
 
 
 <h3 align="left">Languages and Tools:</h3>
