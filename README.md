@@ -220,13 +220,11 @@
 </p>
 
 <br />
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
+<div style="display: block;">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=samuelbrhane&show_icons=true&theme=gruvbox" alt="samuel-github-stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samuelbrhane&show_icons=true&theme=gruvbox" alt="samuel-github-stats" style="margin-bottom: 20px; display: block;" />
 
   <!-- LeetCode Card -->
-  <img src="https://leetcard.jacoblin.cool/samuelbrhanealemayohu" alt="samuel-leetcode-card" />
+  <img src="https://leetcard.jacoblin.cool/samuelbrhanealemayohu" alt="samuel-leetcode-card" style="display: block;" />
 </div>
-
-
 <br />
