@@ -220,12 +220,13 @@
 </p>
 
 <br />
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=samuelbrhane&show_icons=true&theme=gruvbox" alt="samuel-github-stats" />
 
   <!-- LeetCode Card -->
   <img src="https://leetcard.jacoblin.cool/samuelbrhanealemayohu" alt="samuel-leetcode-card" />
 </div>
+
 
 <br />
