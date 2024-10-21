@@ -3,15 +3,18 @@
 <div>
 
 <img src="https://komarev.com/ghpvc/?username=samuelberhane&style=flat"  height="25">
+
 <!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/alemayohu-samuelbrhane/" target="_blank">
+<a href="https://www.linkedin.com/in/alemayohu-samuelbrhane/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only"
-        alt="Connect with me on linkedin" height="25" >
+        alt="Connect with me on LinkedIn" height="25">
 </a>
 
-<a href="https://samuelbrhane.com" target="_blank">
+<!-- Website -->
+<a href="https://samuelbrhane.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Website-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit my website" height="25">
 </a>
+
 </div>
 
 <!-- Website -->
