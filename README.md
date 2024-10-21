@@ -4,7 +4,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=samuelberhane&style=flat"  height="25">
 <!-- Light Mode -->
-<a href="www.linkedin.com/in/alemayohu-samuelbrhane">
+<a href="[www.linkedin.com/in/alemayohu-samuelbrhane](https://www.linkedin.com/in/alemayohu-samuelbrhane/)">
     <img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only"
         alt="Connect with me on linkedin" height="25" >
 </a>
