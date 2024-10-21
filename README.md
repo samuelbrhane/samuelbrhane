@@ -222,7 +222,7 @@
 <br />
 <div style="display: block;">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=samuelbrhane&show_icons=true&theme=gruvbox" alt="samuel-github-stats" style="margin-bottom: 20px; display: block;" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=samuelbrhane&show_icons=true&theme=gruvbox" alt="samuel-github-stats" style="margin-bottom: 20px; display: block;" /> -->
 
   <!-- LeetCode Card -->
   <img src="https://leetcard.jacoblin.cool/samuelbrhanealemayohu" alt="samuel-leetcode-card" style="display: block;" />
