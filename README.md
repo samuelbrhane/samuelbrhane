@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel Brhane</h1>
-<h3 align="center">Senior Full-Stack Developer | AWS and Machine Learning Engineer </h3>
+<h3 align="center">Senior Software & ML Engineer</h3>
 <div>
 
 <img src="https://komarev.com/ghpvc/?username=samuelberhane&style=flat"  height="25">
