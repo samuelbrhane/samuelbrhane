@@ -12,9 +12,7 @@ combining <strong>backend engineering</strong>, <strong>machine learning</strong
   ✉️ <a href="mailto:contact@samuelbrhane.com">Email</a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=samuelbrhane&style=flat" />
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Expert-blue" />
