@@ -25,7 +25,7 @@ combining <strong>backend engineering</strong>, <strong>machine learning</strong
 
 ---
 
-## 🚀 Flagship Projects
+ ## Production Platforms
 
 ---
 
