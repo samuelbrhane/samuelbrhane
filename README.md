@@ -16,9 +16,9 @@ combining <strong>backend engineering</strong>, <strong>machine learning</strong
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Expert-blue" />
+  <img src="https://img.shields.io/badge/Go-Expert-00ADD8" />
   <img src="https://img.shields.io/badge/TypeScript-Advanced-3178C6" />
   <img src="https://img.shields.io/badge/JavaScript-Advanced-F7DF1E" />
-  <img src="https://img.shields.io/badge/Go-Intermediate-00ADD8" />
   <img src="https://img.shields.io/badge/AWS-Cloud--Native-orange" />
   <img src="https://img.shields.io/badge/Machine%20Learning-Production-green" />
 </p>
