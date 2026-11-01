@@ -48,17 +48,6 @@ A developer-first AI usage control platform that enforces limits, budgets, and g
 - BYOK support with consistent tracking
 - VS Code extension for in-editor usage visibility and policy inspection
 
-**Tech stack**
-<p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-Core--API-009688" />
-  <img src="https://img.shields.io/badge/Python-Backend-3776AB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-Metadata-336791" />
-  <img src="https://img.shields.io/badge/Redis-Rate--Limits-DC382D" />
-  <img src="https://img.shields.io/badge/TypeScript-SDKs-3178C6" />
-  <img src="https://img.shields.io/badge/VS%20Code-Extension-007ACC" />
-  <img src="https://img.shields.io/badge/Docker-Containers-2496ED" />
-</p>
-
 ---
 
 ### 📈 Nordict  
@@ -78,55 +67,10 @@ A production-grade market forecasting platform delivering multi-horizon probabil
 - Subscription billing with plan-based feature enforcement
 - Infrastructure deployed via Terraform with CI/CD automation
 
-**Tech stack**
-<p align="left">
-  <img src="https://img.shields.io/badge/Django-Backend-092E20" />
-  <img src="https://img.shields.io/badge/Python-Core-3776AB" />
-  <img src="https://img.shields.io/badge/XGBoost-Forecasting-FF6F00" />
-  <img src="https://img.shields.io/badge/PostgreSQL-Analytics-336791" />
-  <img src="https://img.shields.io/badge/Next.js-Dashboard-000000" />
-  <img src="https://img.shields.io/badge/React-UI-61DAFB" />
-  <img src="https://img.shields.io/badge/AWS-ECS%20%7C%20RDS%20%7C%20S3-orange" />
-  <img src="https://img.shields.io/badge/Terraform-IaC-7B42BC" />
-</p>
-
----
-
-### 🏭 Forge-Ops  
-**Agentic Operational Intelligence Platform · Multi-Agent Orchestration**
-
-An industrial-grade multi-agent system that bridges technical documentation, live SQL databases, and operational signals to generate actionable mitigation strategies in energy, logistics, and infrastructure environments.
-
-**Core architecture**
-- Agent A (Librarian – RAG): searches manuals and safety SOPs via Kendra/OpenSearch
-- Agent B (Analyst – SQL): converts natural language into SQL queries for Athena/RDS
-- Agent C (Strategist – Reasoning): synthesizes outputs into structured recommendations
-- Orchestrator: AWS Step Functions coordinating agent workflows and escalation logic
-
-**Industry-grade capabilities**
-- Human-in-the-loop approval before high-cost actions
-- Cost guardrails integrated with TokVigil
-- Multi-agent tool calling via AWS Bedrock
-- Secure IAM role-based access with least privilege
-- Secrets stored in AWS Secrets Manager
-- Infrastructure fully deployed using AWS CDK
-
-**Tech stack**
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS%20Bedrock-Agents-orange" />
-  <img src="https://img.shields.io/badge/Step%20Functions-Orchestration-orange" />
-  <img src="https://img.shields.io/badge/Amazon%20Kendra-RAG-orange" />
-  <img src="https://img.shields.io/badge/OpenSearch-Retrieval-orange" />
-  <img src="https://img.shields.io/badge/Athena-SQL-orange" />
-  <img src="https://img.shields.io/badge/RDS-Operational%20DB-orange" />
-  <img src="https://img.shields.io/badge/Secrets%20Manager-Security-orange" />
-  <img src="https://img.shields.io/badge/AWS%20CDK-IaC-orange" />
-</p>
-
-
 
 
 ---
+
 
 
 ## 🧠 Core Technical Focus
@@ -196,29 +140,3 @@ An industrial-grade multi-agent system that bridges technical documentation, liv
 - Monitoring, logging, and cost optimization
 
 ---
-
-### ⚙️ What I Deliver
-- End-to-end systems from idea to architecture to production
-- Scalable, cloud-ready, AI-powered platforms
-- Clean, maintainable, and well-documented code
-- Reliable execution and clear communication
-
----
-
-## 📊 GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/samuelbrhane)
-
----
-
-## 🧪 Problem Solving
-
-<img src="https://leetcard.jacoblin.cool/samuelbrhanealemayohu" />
-
----
-
-## 📫 Connect
-
-- 🌐 https://samuelbrhane.com  
-- 💼 https://www.linkedin.com/in/alemayohu-samuelbrhane/  
-- ✉️ contact@samuelbrhane.com
