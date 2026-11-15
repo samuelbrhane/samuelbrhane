@@ -2,8 +2,12 @@
 <h3 align="center">Senior Software & Machine Learning Engineer</h3>
 
 <p align="center">
-I build <strong>intelligent, scalable, cloud-native systems</strong><br/>
-combining <strong>backend engineering</strong>, <strong>machine learning</strong>, and <strong>DevOps</strong>.
+<strong>LLM Integration · RAG Chatbots · AI Agents · Full Stack</strong>
+</p>
+
+<p align="center">
+I build AI features into production web apps, end to end, with <strong>Python</strong>, <strong>Go</strong> and <strong>React / Next.js</strong>.<br/>
+I also train and evaluate ML models on messy real world data, with research on wildfire and air quality prediction.
 </p>
 
 <p align="center">
@@ -12,131 +16,58 @@ combining <strong>backend engineering</strong>, <strong>machine learning</strong
   ✉️ <a href="mailto:contact@samuelbrhane.com">Email</a>
 </p>
 
-
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Expert-blue" />
-  <img src="https://img.shields.io/badge/Go-Expert-00ADD8" />
-  <img src="https://img.shields.io/badge/TypeScript-Advanced-3178C6" />
-  <img src="https://img.shields.io/badge/JavaScript-Advanced-F7DF1E" />
-  <img src="https://img.shields.io/badge/AWS-Cloud--Native-orange" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-Production-green" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white" />
 </p>
 
 ---
 
- ## Production Platforms
+## 🚀 Featured Projects
+
+### 🌱 Grounded · RAG chatbot with citations
+Answers questions from documents, cites the source of every answer, and refuses when the answer is not in the documents. Query rewriting for follow-ups, streaming answers, saved chats, and a 25 question evaluation set that guided the chunk size and threshold.
+
+`Python` `OpenAI` `pgvector` `Alembic` `Streamlit`
+
+[**Live demo**](https://grounded-rag.streamlit.app) · [Code](https://github.com/samuelbrhane/rag-document-chatbot)
+
+### 🔐 TokVigil · AI usage governance
+Python and TypeScript SDKs plus a VS Code extension that enforce per-user budgets, token limits and cost caps directly in application code, with audit logs and clear reasons for every blocked request.
+
+`Python` `TypeScript` `Redis` `VS Code API`
+
+[**Website**](https://tokvigil.com) · [Code](https://github.com/samuelbrhane/TokVigil)
+
+### 📈 Nordict · Market forecasting platform
+Multi-horizon probabilistic forecasts from 24 hours to 12 months, with confidence scores, alerts, and forecast versus actual tracking on authenticated dashboards.
+
+`Python` `XGBoost` `Next.js` `Terraform`
+
+[**Website**](https://nordict.net) · [Code](https://github.com/samuelbrhane/Nordict)
 
 ---
 
-### 🔐 TokVigil  
-**Application-Level AI Governance · SDK + VS Code Extension**
+## 🛠️ Stack
 
-🔗 **GitHub:** https://github.com/samuelbrhane/TokVigil  
-🌐 **Website:** https://tokvigil.com  
-
-A developer-first AI usage control platform that enforces limits, budgets, and governance policies directly inside application code rather than at the infrastructure or proxy layer.
-
-**Key capabilities**
-- Python and TypeScript SDKs wrapping LLM calls
-- Per-user, per-feature, and per-plan usage enforcement
-- Per-request cost caps and token limits
-- Redis-backed real-time counters
-- Deterministic reason codes for blocked requests
-- Centralized audit logs and API key tracking
-- Environment isolation (dev / staging / prod)
-- BYOK support with consistent tracking
-- VS Code extension for in-editor usage visibility and policy inspection
+| | |
+|---|---|
+| **AI** | OpenAI API, RAG, pgvector, AI agents with tool calling, PyTorch, TensorFlow, scikit-learn, XGBoost |
+| **Backend** | Python (FastAPI, Django), Go, Node.js, REST APIs, WebSockets |
+| **Frontend** | React, Next.js, TypeScript, Tailwind CSS |
+| **Data** | PostgreSQL, Redis, MongoDB, DynamoDB, S3 |
+| **Cloud** | AWS, Docker, Kubernetes, Terraform, GitHub Actions |
 
 ---
 
-### 📈 Nordict  
-**Market Forecasting Platform · Multi-Horizon Probabilistic Modeling**
-
-🔗 **GitHub:** https://github.com/samuelbrhane/Nordict  
-🌐 **Website:** https://nordict.net  
-
-A production-grade market forecasting platform delivering multi-horizon probabilistic predictions (24H, 30D, 12W, 12M) with confidence scoring, alerts, and historical forecast-vs-actual analysis.
-
-**Key capabilities**
-- Rolling inference pipelines with hourly and daily refresh cycles
-- Multi-horizon probabilistic forecasting with uncertainty estimation
-- XGBoost-based modeling with structured evaluation workflows
-- Authenticated dashboards for forecasts, alerts, and performance tracking
-- Forecast vs actual historical analysis
-- Subscription billing with plan-based feature enforcement
-- Infrastructure deployed via Terraform with CI/CD automation
-
-
-
----
-
-
-
-## 🧠 Core Technical Focus
-
-### 🧩 Programming Languages
-- Python
-- TypeScript
-- JavaScript
-- Go
-
----
-
-### 🗄️ Databases & Storage
-- PostgreSQL
-- MySQL
-- MariaDB
-- Microsoft SQL Server
-- MongoDB
-- Amazon DynamoDB
-- Amazon Aurora
-- Amazon S3
-- Redis
-- pgvector
-
-
----
-
-### 🌐 Backend, APIs & Frameworks
-- FastAPI
-- Django
-- Node.js
-- Express.js
-- NestJS
-- REST APIs
-- WebSockets
-- Background workers and async processing
-- Go (backend services)
-
----
-
-### 🎨 Frontend & UI
-- React
-- Next.js
-- Component-based UI architecture
-- Server-side rendering and performance optimization
-
----
-
-### 🧠 Machine Learning & Data
-- TensorFlow
-- PyTorch
-- Scikit-learn
-- XGBoost
-- MLflow
-- Pandas
-- NumPy
-- Time-series forecasting and regression models
-
----
-
-### ☁️ Cloud, DevOps & MLOps
-- AWS (EC2, S3, RDS, ECS, Lambda, SageMaker)
-- Docker
-- Kubernetes
-- GitHub Actions
-- Infrastructure as Code (Terraform)
-- Monitoring, logging, and cost optimization
-
----
+<p align="center">
+<sub>Open to freelance and contract work on AI features, RAG systems and full stack apps.</sub>
+</p>
