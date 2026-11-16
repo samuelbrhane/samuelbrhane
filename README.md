@@ -40,6 +40,13 @@ Answers questions from documents, cites the source of every answer, and refuses 
 
 [**Live demo**](https://grounded-rag.streamlit.app) · [Code](https://github.com/samuelbrhane/rag-document-chatbot)
 
+### ✈️ Waypoint · AI support agent with tools
+An airline support agent that looks up bookings, checks fare rules written in code, and prepares rebookings and refunds that the customer confirms before anything changes. Retries failed tools, escalates to a human with a ticket, streams a live trace of every step, and passes a 13 scenario evaluation.
+
+`TypeScript` `Next.js` `OpenAI` `Drizzle` `PostgreSQL`
+
+[**Live demo**](https://waypoint-agent-velmora.vercel.app/) · [Code](https://github.com/samuelbrhane/waypoint-support-agent)
+
 ### 🔐 TokVigil · AI usage governance
 Python and TypeScript SDKs plus a VS Code extension that enforce per-user budgets, token limits and cost caps directly in application code, with audit logs and clear reasons for every blocked request.
 
